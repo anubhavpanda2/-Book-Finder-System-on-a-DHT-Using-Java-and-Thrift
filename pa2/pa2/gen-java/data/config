@@ -1,0 +1,7 @@
+bit=6
+superNodeIP=csel-kh4250-09.cselabs.umn.edu
+superNodePort=9096
+dhtNodePort=9095
+inputFile=shakespeares.txt
+inputDir=./data/input_dir/
+
